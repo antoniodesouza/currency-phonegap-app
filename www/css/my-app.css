@@ -1,0 +1,13 @@
+.status {
+    background-color: rgba(143, 143, 245, 0.15);
+    border: 1px #000000 solid;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #888;
+    padding: 4px;
+}
+
+.content-block-panels {
+  margin: 35px 0;
+  padding: 0 15px;
+  color: #BEBEBE;
+}
